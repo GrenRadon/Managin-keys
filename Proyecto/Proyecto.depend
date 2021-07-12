@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1625848633 source:/home/julian/Escritorio/pacific/Proyecto/CuentaUsuario.cpp
+	"CuentaUsuario.h"
+
+1625848341 /home/julian/Escritorio/pacific/Proyecto/CuentaUsuario.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<wchar.h>
+
+1625845358 source:/home/julian/Escritorio/pacific/Proyecto/main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"CuentaUsuario.h"
+	<locale.h>
+	<wchar.h>
+
+1625839628 /home/julian/Escritorio/pacific/Proyecto/main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"CuentaUsuario.h"
+	<locale.h>
+	<wchar.h>
+
